@@ -1,7 +1,6 @@
 # gitremote
----here merge conflict resolved--
+---Readme.md upadted from git hub --
 
-Hi good morning everyone
+Hi good evening
 
-Hi good morning all
 
